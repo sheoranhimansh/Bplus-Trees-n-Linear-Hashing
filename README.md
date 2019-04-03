@@ -11,4 +11,4 @@
 ### The implementation of linear hashing is present in the file "linear_hash_buffer.cpp"
 #### Execution format:
 	g++ linear_hash_buffer.cpp
-./a.out <input_file> <M> <B>
+	./a.out <input_file> <M> <B>
